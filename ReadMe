@@ -1,0 +1,6 @@
+frontend the user can register their account and login with the system only authorized users can view the user details and edit create delete the data.
+for the backend running with localhost:8080. please review the .env file
+
+admin credentials are
+username : oviya@gmail.com
+password: oviya
